@@ -3,16 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "appName": {
-      "value": "esbcrmsync-d-ne"
+      "value": "esq"
     },
       "functionAppName": {
-      "value": "fa-shu-esb-c-ne"
+      "value": "esxm"
     },
     "hostingPlanName": {
-      "value": "faap-shu-esb-c-ne"
+      "value": "esbstm"
     },
     "storageAccountName": {
-      "value": "fasashuesbcne"
+      "value": "esbstugkhbmjmmm"
     }
   }
 }
