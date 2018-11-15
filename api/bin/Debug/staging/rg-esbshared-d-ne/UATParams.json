@@ -1,0 +1,51 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "serviceBusNamespaceName": {
+      "value": "sb-shu-esbshared-u-ne"
+    },
+    "serviceBusQueueName01": {
+      "value": "Auditing"
+    },
+    "serviceBusQueueName02": {
+      "value": "Exceptions"
+    },
+    "serviceBusTopicName01": {
+      "value": "Crmsynchronisation"
+    },
+    "serviceBusTopicName02": {
+      "value": "Student"
+    },
+    "sqlServerAdminLogin": {
+      "value": "ssadmin"
+    },
+    "sqlServerAdminPassword": {
+      "value": "Solids0ft!Solids0ft!"
+    },
+    "sqlDatabaseEdition": {
+      "value": "Basic"
+    },
+    "storageAccountName": {
+      "value": "sashuesbune"
+    },
+    "containerName": {
+      "value": "crmsync"
+    },
+    "serviceBusSubscriptionName": {
+      "value": "crmofframp"
+    },
+    "databaseServerName": {
+      "value": "sql-shu-esb-u-ne"
+    },
+    "databaseName": {
+      "value": "sqldb-shu-esb-u-ne"
+    },
+    "opdg_name": {
+      "value": "opdg-shu-esb-u-ne"
+    },
+    "opdg_onprem_id": {
+      "value": "/subscriptions/8b378c99-ac8b-4725-9852-dadbbc0ff298/providers/Microsoft.Web/locations/northeurope/connectionGatewayInstallations/1e6c21a1-3d67-433a-9ca4-89c44ae82f42"
+    }
+  }
+}

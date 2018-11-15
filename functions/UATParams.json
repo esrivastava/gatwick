@@ -1,0 +1,18 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "appName": {
+      "value": "esbcrmsync-u-ne"
+    },
+      "functionAppName": {
+      "value": "fa-shu-esb-u-ne"
+    },
+    "hostingPlanName": {
+      "value": "faap-shu-esb-u-ne"
+    },
+    "storageAccountName": {
+      "value": "fasashuesbcne"
+    }
+  }
+}
