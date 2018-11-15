@@ -3,16 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "appName": {
-      "value": "esbapp"
+      "value": "esbaspp"
     },
       "functionAppName": {
-      "value": "esbfunx"
+      "value": "esbfunsx"
     },
     "hostingPlanName": {
-      "value": "esbhojst"
+      "value": "esbhojsst"
     },
     "storageAccountName": {
-      "value": "esbstuoringkhbmj"
+      "value": "esbstuoringkhbmjmm"
     }
   }
 }
