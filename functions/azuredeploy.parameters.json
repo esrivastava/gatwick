@@ -3,16 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "appName": {
-      "value": "snq"
+      "value": "snjq"
     },
       "functionAppName": {
-      "value": "sxnm"
+      "value": "sxn"
     },
     "hostingPlanName": {
-      "value": "estmm"
+      "value": "etmm"
     },
     "storageAccountName": {
-      "value": "ebstugknhbmjmmm"
+      "value": "ebstugk"
     }
   }
 }
